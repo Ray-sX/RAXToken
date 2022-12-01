@@ -1,4 +1,4 @@
-# Ray-sX Token
+# RaysX (RAX) Token
 
 Name: RAX Token
 Symbol: RAX
